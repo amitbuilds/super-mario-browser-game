@@ -1,0 +1,30 @@
+# 🎮 Super Mario JS  
+
+A **Super Mario Bros–style 2D platformer** built using **JavaScript, HTML5, and Phaser.js**.  
+Play it directly in your browser — no downloads, no installs, just pure retro fun! 🚀  
+
+---
+
+## ✨ Features
+- 🏃‍♂️ Smooth player movement & jumping  
+- 🌍 Gravity & collision physics  
+- 🟩 Platforms, obstacles & hazards  
+- 👾 Enemies to avoid or defeat  
+- 💰 Coins & collectibles  
+- 🎵 Retro-inspired visuals & sounds  
+- 🖥️ Playable in any modern desktop browser  
+
+---
+
+## 🛠️ Tech Stack
+- 🎨 **HTML5 Canvas / Phaser.js** – rendering & engine  
+- ⚡ **JavaScript (ES6)** – game logic & interactivity  
+- 🎭 **CSS3** – layout & styling  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repo  
+```bash
+git clone https://github.com/your-username/super-mario-js.git
