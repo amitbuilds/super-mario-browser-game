@@ -1,0 +1,1 @@
+create an html + javascript game using kaboom.js where a player can move left/right and jump on platforms. use simple square shape instend of sprites.
